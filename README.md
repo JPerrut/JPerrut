@@ -2,9 +2,10 @@
 *Estudante de Análise e Desenvolvimento de Sistemas*  
 
 ### 🚀 Atualmente estudando:  
-- **React** (hooks, context API e best practices)  
-- **Node.js** + **TypeScript** em APIs RESTful  
-- Arquitetura de software (Clean Architecture, SOLID)  
+- **React**
+- **JavaScript**  
+- **Node.js**  
+- **Python**    
 
 ### 🛠️ Skills  
 <div style="display: inline_block">  
